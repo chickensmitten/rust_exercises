@@ -43,3 +43,4 @@ fn area_of(x: i32, y: i32) -> i32 {
     //            "tail expression" that returns a value without using `return`.
     //            Hint: `cargo clippy` will warn you about this exact thing.
 }
+
